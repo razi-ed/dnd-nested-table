@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react-dnd-html5-backend": "latest",
+    "react-dnd": "latest",
+    "react": "latest",
+    "immutability-helper": "latest",
+    "antd": "latest"
+  }
+}

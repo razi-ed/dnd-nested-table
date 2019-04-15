@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react-dnd-html5-backend": "latest",
+    "react-dnd": "latest",
+    "react": "latest",
+    "immutability-helper": "latest",
+    "antd": "latest"
+  },
+  "name": "8k2x35o5x0",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
